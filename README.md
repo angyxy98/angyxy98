@@ -1,3 +1,5 @@
+My [linktr.ee](https://linktr.ee/angyxys)
+
 - 👋 Hi, I’m @angyxys
 - 👀 I’m interested in Gaming, Coding, Music
 - 🌱 I’m currently learning C#
