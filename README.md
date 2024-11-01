@@ -1,4 +1,4 @@
-My [linktr.ee](https://linktr.ee/angyxys)
+My [linktr.ee](https://linktr.ee/angyxys) to see my social medias (Instagram, Youtube, X)
 
 - 👋 Hi, I’m @angyxys
 - 👀 I’m interested in Gaming, Coding, Music
