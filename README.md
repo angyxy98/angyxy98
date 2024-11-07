@@ -1,6 +1,6 @@
 My [linktr.ee](https://linktr.ee/angyxys) to see my social medias (Instagram, Youtube, X)
 
-> <a href="https://www.buymeacoffee.com/angyxys"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xPGLYEr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+> <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="angyxys" data-color="#BD5FFF" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 - 👋 Hi, I’m @angyxys
 - 👀 I’m interested in Gaming, Coding, Music
