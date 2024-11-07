@@ -1,5 +1,7 @@
 My [linktr.ee](https://linktr.ee/angyxys) to see my social medias (Instagram, Youtube, X)
 
+> <a href="https://www.buymeacoffee.com/angyxys"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xPGLYEr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 - 👋 Hi, I’m @angyxys
 - 👀 I’m interested in Gaming, Coding, Music
 - 🌱 I’m currently learning C#
